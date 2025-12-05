@@ -1,0 +1,337 @@
+{
+  "main": {
+    "id": "06ecd778dd087fab",
+    "type": "split",
+    "children": [
+      {
+        "id": "31ccca8fc15fc56e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c944afd11b17ef4c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all/everyday/2025/16-November-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "16-November-2025"
+            }
+          },
+          {
+            "id": "3b938211ee449884",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Просто идеи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Просто идеи"
+            }
+          },
+          {
+            "id": "54c1e2b7ca6acfed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all/everyday/2025/03-December-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03-December-2025"
+            }
+          },
+          {
+            "id": "780de96b2cacf408",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект/Идеи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Идеи"
+            }
+          },
+          {
+            "id": "62d05d9efe7b0b43",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект/Идеи.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Идеи"
+            }
+          },
+          {
+            "id": "bd0cd38ea7e8bfdd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект/нада.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "нада"
+            }
+          },
+          {
+            "id": "1c1c5825b6a1cb0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all/everyday/2025/20-October-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "20-October-2025"
+            }
+          },
+          {
+            "id": "160de1728f8b22fc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Проект/нада.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "нада"
+            }
+          },
+          {
+            "id": "940e033b0a406482",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "all/everyday/2025/12-November-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "12-November-2025"
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c50d84875ca82448",
+    "type": "split",
+    "children": [
+      {
+        "id": "7328d2e5098db909",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "98b828e928f6959d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8525c51bd46a4456",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b9a95aad61286a93",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c8094c87ecc930d1",
+    "type": "split",
+    "children": [
+      {
+        "id": "5355464933fdde3d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "01a2cc49aa0a4274",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "all/Golang/Переменные и типы данных.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Переменные и типы данных"
+            }
+          },
+          {
+            "id": "daf3f3eef6757404",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "all.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from all"
+            }
+          },
+          {
+            "id": "d1a6393dbe893eda",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "361e28b79d171e27",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "all.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of all"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-excalidraw-plugin:New drawing": false
+    }
+  },
+  "active": "54c1e2b7ca6acfed",
+  "lastOpenFiles": [
+    "all/everyday/2025/01-December-2025.md",
+    "all/everyday/2025/03-December-2025.md",
+    "all/everyday/2025/30-November-2025.md",
+    "all/everyday/2025/29-November-2025.md",
+    "Правила.md",
+    "Просто идеи.md",
+    "base.md",
+    "all/everyday/2025/02-September-2025.md",
+    "all/Цели/2025/Сентябрь.md",
+    "Ну типа мусор/Pasted Image 20251018212828_080.png",
+    "Ну типа мусор",
+    "Ну типа мусор/Pasted Image 20251019143754_638.svg",
+    "Ну типа мусор/Pasted Image 20251019143830_984.svg",
+    "Excalidraw/Drawing 2025-11-16 17.39.41.excalidraw.md",
+    "all/everyday/2025/25-November-2025.md",
+    "Ну типа мусор/Pasted Image 20251116191108_325.png",
+    "Ну типа мусор/Pasted Image 20251116174043_315.png",
+    "all/everyday/2025/16-November-2025.md",
+    "all/everyday/2025/08-October-2025.md",
+    "all/everyday/2025/13-November-2025.md",
+    "Excalidraw/Drawing 2025-11-12 11.43.55.excalidraw.md",
+    "Ну типа мусор/Pasted Image 20251112122221_388.png",
+    "Ну типа мусор/Pasted Image 20251112122141_132.png",
+    "Ну типа мусор/Pasted Image 20251112121801_130.png",
+    "Ну типа мусор/Pasted Image 20251112115539_187.png",
+    "Ну типа мусор/Pasted Image 20251112115456_083.png",
+    "all/everyday/2025/12-November-2025.md",
+    "all/everyday/2025/04-November-2025.md",
+    "Проект/нада.md",
+    "Проект/как работает.md",
+    "all/everyday/2025/02-November-2025.md",
+    "all/everyday/2025/26-October-2025.md",
+    "all/Golang/Массивы.md",
+    "all/Golang/Форматированный вывод.md",
+    "Excalidraw/Drawing 2025-10-20 21.56.34.excalidraw.md",
+    "all/everyday/2025/20-October-2025.md",
+    "Excalidraw/Структура проекта для ВШЭ.md",
+    "Untitled.base",
+    "Templates.7z",
+    "Excalidraw",
+    "Проект",
+    "all/Golang",
+    "Untitled.canvas",
+    "all/sport",
+    "all/everyday/2025",
+    "all/everyday",
+    "Templates/Templates"
+  ]
+}

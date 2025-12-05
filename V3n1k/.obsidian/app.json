@@ -1,0 +1,7 @@
+{
+  "userIgnoreFilters": [
+    "cache/"
+  ],
+  "readableLineLength": false,
+  "showLineNumber": false
+}
